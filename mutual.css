@@ -1,0 +1,53 @@
+.cards{
+    margin-top: 100px;
+}
+#image1{
+    border-radius:50%;
+    padding: 40px 40px 40px ;
+}
+
+#sidebyside{
+    height: 500px;
+    width: 500px;
+    border-radius:50%;
+}
+.first{
+    margin-top: 100px;
+    border-radius: 40px 0px 40px;
+    
+}
+p{
+    color:white;
+}
+.abc{
+    padding-top:500px;
+}
+#sbi{
+    color:rgb(0, 174, 255);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#kotak1,#icici1{
+    color:#001f46;
+
+}
+#kotak{
+    color:red;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+#icici{
+    color:rgb(255, 94, 0);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+body{
+    background-image:linear-gradient(rgb(225, 238, 45),rgb(247, 67, 67),rgb(243, 113, 134) ,rgb(55, 56, 121));
+    
+    
+}
+.card{
+    
+    background-color:#001f46;
+    border-radius: 40px 0px 40px;
+}
+.card-title{
+    color:white;
+}
